@@ -2,7 +2,9 @@
 title: "R Notebook"
 output: html_notebook
 ---
-
+Monte Carlo Simulations for "Estimation and Inference in High-Dimensional Panel
+Data Models with Interactive Fixed Effects" (2024) by Oliver Linton, 
+Maximilian Rücker, Michael Vogt and Christopher Walsh.
 
 ```{r}
 # hdcce package needs to be downloaded: https://github.com/RueckerM/hdcce
